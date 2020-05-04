@@ -1,10 +1,10 @@
 // Returns string "Happy Holidays!"
 function happyHolidays(){
-  return "Happy Holidays!";
+  return "Happy holidays!";
 }
 // Returns a string including input name.
 function happyHolidaysTo(name){
-  return `Happy Holidays, ${name}!`;
+  return `Happy holidays, ${name}!`;
 }
 // Returns a string including input holiday & name.
 function happyCustomHolidayTo(holiday, name){
